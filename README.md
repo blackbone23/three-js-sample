@@ -1,1 +1,1 @@
-# three-js-sample
+# Sample Three JS on Web
